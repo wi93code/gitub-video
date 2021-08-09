@@ -10,7 +10,7 @@ body {
     color: hsl(229, 23%, 23%);
 }
 .main {
-    background-image: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
+    background-image:  url("./image/bg-pattern-top.svg"), url("./image/bg-pattern-bottom.svg");
     background-position: -90% -500px, 170% 400px;
     background-repeat: no-repeat;
     background: hsl(185, 75%, 39%);
@@ -29,7 +29,7 @@ body {
 .upper-container {
     height: 150px;
     width: 350px;
-    background: url(./images/bg-pattern-card.svg);
+    background: url(./image/bg-pattern-card.svg);
     background-size: cover;
 }
 .img-sec {
